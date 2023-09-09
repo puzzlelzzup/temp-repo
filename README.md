@@ -1,7 +1,7 @@
 # temp-repo
 ## Git is a source code version management system
 ## Github is a site where you can post projects managed by Git
-<br>
+
 ## Four Steps
 ### Step 1: Create a branch
 ### Step 2: Commit a file
